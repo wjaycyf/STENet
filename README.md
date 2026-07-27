@@ -10,7 +10,7 @@ This paper is currently under review.
 - PyTorch
 
 ## Datasets
-- Training Datasets: [REDS](https://seungjunnah.github.io/Datasets/reds.html).
+- Training Datasets: [REDS](https://seungjunnah.github.io/Datasets/reds.html)
 
 - Testing Synthetic Datasets: [REDS4](https://seungjunnah.github.io/Datasets/reds.html), [GoPro](https://seungjunnah.github.io/Datasets/gopro.html)
 
